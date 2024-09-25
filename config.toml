@@ -1,3 +1,4 @@
+theme = "everforest_dark"
 [keys.normal]
 i = "move_visual_line_up"
 k = "move_visual_line_down"
@@ -6,4 +7,3 @@ l = "move_char_right"
 h = "insert_mode"  # Example remap for 'I' functionality
 S-h = "insert_at_line_start"
 S-i = "no_op"
-theme = "everforest_dark"
