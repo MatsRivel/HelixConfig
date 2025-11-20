@@ -1,12 +1,5 @@
-theme = "everforest_dark"
+theme = "gruvbox-custom"
 [editor]
 line-number = "relative"
-[keys.normal]
-i = "move_visual_line_up"
-k = "move_visual_line_down"
-j = "move_char_left"
-l = "move_char_right"
-h = "insert_mode"  # Example remap for 'I' functionality
-S-h = "insert_at_line_start"
-S-i = "no_op"
-C-h = "jump_forward"
+[editor.lsp]
+display-inlay-hints = true
